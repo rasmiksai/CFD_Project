@@ -14,3 +14,14 @@
 
 #Results: Generated plots of streamlines, velocity vectors, and u-velocity profiles at **
 𝑥 = 2 and  𝑥= 10 and calculated the recirculation length (Lr).
+
+# Transient Couette Flow
+#Objective: 
+#Solution of the partial differential equation for Couette Flow using the finite difference method.
+#A convergence criterion of 10^-6 was used.
+  #Explicit Methods:
+      #Forward Time Central Space (FTCS).
+  #Implicit Methods:
+    # Backward Time Central Space (BTCS) using Gauss-Seidel.
+    # Backward Time Central Space (BTCS) using the Tridiagonal Matrix Algorithm.
+    # Crank-Nicolson (CN) using the Tridiagonal Matrix Algorithm.
