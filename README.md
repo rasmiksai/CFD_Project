@@ -41,7 +41,9 @@
 #Solution of the 2D heat conduction problem using iterative methods and finite difference methods.
 
 #A convergence criterion of 10^-6 was used.
+
 #Grid = 20 x20
+
 #Iterative Methods:
     
     # Jacobi
