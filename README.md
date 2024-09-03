@@ -33,3 +33,19 @@
     # Backward Time Central Space (BTCS) using the Tridiagonal Matrix Algorithm.
     
     # Crank-Nicolson (CN) using the Tridiagonal Matrix Algorithm.
+
+# Steady-State 2D-Heat Conduction 
+
+#Objective
+
+#Solution of the 2D heat conduction problem using iterative methods and finite difference methods.
+
+#A convergence criterion of 10^-6 was used.
+#Grid = 20 x20
+#Iterative Methods:
+
+  #Jacobian
+  #Point Gauss-Seidel
+  #Point Successive Over-Relaxation Method
+  #Line Gauss-Seidel
+  #Alternating Direction Implicit Method
