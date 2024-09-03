@@ -43,9 +43,13 @@
 #A convergence criterion of 10^-6 was used.
 #Grid = 20 x20
 #Iterative Methods:
-
-  #Jacobian
-  #Point Gauss-Seidel
-  #Point Successive Over-Relaxation Method
-  #Line Gauss-Seidel
-  #Alternating Direction Implicit Method
+    
+    # Jacobi
+    
+    # Point Gauss-Seidel
+  
+    # Point Successive Over-Relaxation Method
+  
+    # Line Gauss-Seidel
+  
+    # Alternating Direction Implicit Method
